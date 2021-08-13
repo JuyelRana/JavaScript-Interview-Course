@@ -14,6 +14,6 @@ let palindromeChecker = (function isPalindrome(str) {
   if(charactersArr.join('') === charactersArr.reverse().join('')) return true;
   else return false;
 
-})("race Car @");
+})("Madam I am adam");
 
 console.log(palindromeChecker);
