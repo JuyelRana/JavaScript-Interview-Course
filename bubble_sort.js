@@ -11,6 +11,6 @@ for(let i = arr.length; i > 0; i--){
 }
 
 return arr;
-})([5,3,8,2,1,4]);
+})([-5,-3,8,-2,1,-4]);
 
 console.log(bubbleSort);
