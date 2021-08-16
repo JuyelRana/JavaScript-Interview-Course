@@ -13,6 +13,6 @@ let binarySearch = (function binarySearch(numArray, key){
     return false;
   }
 
-})([5,7,12,16,36,39,42,34,71], 56);
+})([5,7,12,16,36,39,42,34,71], 15);
 
 console.log(binarySearch);
