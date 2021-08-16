@@ -15,6 +15,6 @@ let twoSum = (function twoSum(numArray, sum){
 
   return pairs;
 
-})([1,6,5,4,3,3,0,7], 7);
+})([40,11,19,17,-12], 28);
 
 console.log(twoSum);
